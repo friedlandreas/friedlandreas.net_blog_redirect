@@ -1,2 +1,2 @@
 # friedlandreas.net-blog-redirect
-blog.friedlandreas.net redirect auf https://www.friedlandreas.net
+blog.friedlandreas.net redirect auf https://github.com/friedlandreas/Guides
